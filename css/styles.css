@@ -28,5 +28,10 @@ h1 {
 }
 
 .list1 {
+
+  width: 33%;
+  float: left;
+}
+strong{
   color: #F57C00;
 }
