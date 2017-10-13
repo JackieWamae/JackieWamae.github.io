@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+}
+
+body {
+  background-image: url("../images/white.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+  color: #F08080;
+  font-size: 60px;
+
+}
+
+.heading {
+  border: 6px;
+  border-color: #FBC02D;
+  border-style: solid;
+}
+
+.subheading {
+  color: #7CB342;
+  font-size: 20px;
+}
+
+.list1 {
+  color: #F57C00;
+}
