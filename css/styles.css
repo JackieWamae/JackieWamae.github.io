@@ -12,7 +12,7 @@ body {
 h1 {
   text-align: center;
   color: #F08080;
-  font-size: 60px;
+  font-size: 70px;
 
 }
 
@@ -20,18 +20,28 @@ h1 {
   border: 6px;
   border-color: #FBC02D;
   border-style: solid;
+  padding: 6px;
+  margin: 20px;
 }
 
 .subheading {
   color: #7CB342;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .list1 {
 
-  width: 33%;
+  width: 30%;
   float: left;
 }
 strong{
   color: #F57C00;
+}
+
+img {
+  float: left;
+}
+
+.leftpad {
+  padding-left: 400px;
 }
