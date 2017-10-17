@@ -27,12 +27,14 @@ h1 {
 .subheading {
   color: #7CB342;
   font-size: 30px;
+
 }
 
 .list1 {
 
   width: 30%;
   float: left;
+  list-style-type: none;
 }
 strong{
   color: #F57C00;
@@ -44,4 +46,15 @@ img {
 
 .leftpad {
   padding-left: 400px;
+}
+
+#gitlink:hover{
+  color: yellow;
+  background-color: black;
+}
+
+.linkedin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
